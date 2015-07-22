@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kimjy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- splash -->
+    <string name="home">Home</string>
+    <string name="user_info">Login</string>
+    <string name="version_update">Update</string>
+    <string name="version_update_title">업데이트 알림</string>
+    <string name="version_update_message_normal">새로운 버전이 있습니다. 업데이트 하시겠습니까?</string>
+</resources>

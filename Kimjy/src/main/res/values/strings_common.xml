@@ -1,0 +1,5 @@
+<resources>
+
+    <!-- network -->
+    <string name="network_message_not_available">네트워크상태를 확인해주세요.</string>
+</resources>

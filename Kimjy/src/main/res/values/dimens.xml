@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--dialog-->
+    <dimen name="custom_popup_width">250dip</dimen>
+    <dimen name="custom_popup_margin">40dip</dimen>
+    <dimen name="custom_popup_title_height">45dip</dimen>
+    <dimen name="custom_popup_title_margin_bottom">10dip</dimen>
+    <dimen name="custom_popup_title_text_size">18sp</dimen>
+    <dimen name="custom_popup_title_text_left_padding">12dip</dimen>
+    <dimen name="custom_popup_main_margin_bottom">5dip</dimen>
+    <dimen name="custom_popup_bottom_margin_bottom">12dip</dimen>
+    <dimen name="custom_popup_main_text_min_height">90dip</dimen>
+    <dimen name="custom_popup_main_text_size">16sp</dimen>
+    <dimen name="custom_popup_button_width_min">73dip</dimen>
+    <dimen name="custom_popup_button_height">40dip</dimen>
+    <dimen name="custom_popup_button_margin">20dip</dimen>
+    <dimen name="custom_popup_button_margin_side">5dip</dimen>
+    <dimen name="custom_popup_button_margin_gap">2.5dip</dimen>
+    <dimen name="custom_popup_button_text_size">16sp</dimen>
+    <dimen name="custom_popup_bottom_checkbox_width">50dip</dimen>
+    <dimen name="custom_popup_close_btn_width">26dip</dimen>
+    <dimen name="custom_popup_close_btn_height">26dip</dimen>
+    <dimen name="listview_dialog_haed_close_btn_margin">5dip</dimen>
+    <dimen name="common_dialog_contents_padding">12dip</dimen>
+    <dimen name="setting_font_size_small">13sp</dimen>
+</resources>
